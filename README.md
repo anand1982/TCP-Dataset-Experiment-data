@@ -40,6 +40,9 @@ Since 55% of the data is field-captured with complex backgrounds, the following 
     * Horizontal/Vertical Flips
     * Random Rotation ($\pm 30^{\circ}$)
     * Brightness and Contrast adjustments (to handle varying field illumination).
+### Paper Citation
+
+Jain, Anand Kumar, and Neeta Nain. "A Novel Multi Class Real World Fruit and Leaf Disease Image Dataset for Crop Health Analysis." Discover Applied Sciences, 2026. (Submitted).
 
 ## 🚀 Getting Started
 ```python
