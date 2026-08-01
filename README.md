@@ -44,6 +44,10 @@ Since 55% of the data is field-captured with complex backgrounds, the following 
 
 Jain, Anand Kumar, and Neeta Nain. "A Novel Multi Class Real World Fruit and Leaf Disease Image Dataset for Crop Health Analysis." Discover Applied Sciences, 2026. (Submitted).
 
+### DOI
+
+https://doi.org/10.21203/rs.3.rs-8819059/v1 
+
 ## 🚀 Getting Started
 ```python
 # Example: Loading the TCP Dataset in PyTorch
